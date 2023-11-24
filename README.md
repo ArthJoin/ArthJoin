@@ -13,7 +13,6 @@ Additional education: Jusan Singularuty (IOS Development), Terricon School (IOS 
 <p align="left">
   <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white&logoWidth=15&logoHeight=40&logoStyle=flat" height="40">
   <img src="https://img.shields.io/badge/-UIKit-FF2D55?style=flat&logo=uikit&logoColor=white&logoHeight=40" height="40">
-  <img src="https://img.shields.io/badge/-PL/SQL-F80000?style=flat&logo=oracle&logoColor=white&logoHeight=40" height="40">
 </p>
 
 <p align="left">
